@@ -1,0 +1,3 @@
+> python maze.py
+
+Η τεχνητή αναφορά γράφτηκε σε LaTeX στο Overleaf!
