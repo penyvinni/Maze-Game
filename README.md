@@ -10,10 +10,5 @@ An interesting problem is the design of labyrinths. In this paper we are asked t
 Τα χαρακτηριστικά του υπολογιστή είναι Intel Core i7-1065G7 (1.30GHz - 1.50 GHz), 8 GB DDR3 (2667 MHz), λειτουργικό σύστημα Windows 10 Home x64. Για την οπτικοποίηση των αποτελεσμάτων χρησιμοποιήθηκε η βιβλιοθήκη matplotlib. Στον πίνακα φαίνονται τα αποτελέσματα του κώδικα για τον λαβύρινθο 3x3 και στην εικόνα 2.1 φαίνεται η δημιουργία του λαβύρινθου 3x3 με την εκτέλεση του κώδικα. 
 Τέλος, οδηγίες για την εκτέλση του κώδικα: python maze.py
 
-Length           3
-Height           3
-Entrance         UP,1
-Exit             RIGHT,9
-Adjacency list   (5, 8), (1, 4), (2, 3), (4, 5), (8, 9), (5, 6), (2, 5), (4, 7)
-Adjacency map    5: 8, 2, 4, 6, 8: 9, 5, 1: 4, 4: 1, 5, 7, 2: 3, 5, 3: 2, 9: 8, 6: 5, 7: 4
-Path with BFS    [1, 4, 5, 8, 9]
+![table)](https://github.com/user-attachments/assets/0eb1cfe5-8654-4b99-a91f-8c20845e9f58)
+![maze](https://github.com/user-attachments/assets/6e2ea4f2-c6a7-4d0c-b4b1-d79513b83816)
